@@ -1,7 +1,4 @@
-package eu.smpmc.soul.zopnote.api.item.complex;
-
-//This is a list of all different
-//custom TheZepser items.
+package com.github.zopnote.soulsmagic.api.item.complex;
 
 public enum Complex {
   SOUL_BLOOD,
