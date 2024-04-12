@@ -1,5 +1,5 @@
 ## ![1712730730083](https://github.com/Zopnote/souls-magic/assets/126571884/124fd3b5-7f4c-46b4-ae73-f349f5c7da4d)
-![API](https://img.shields.io/badge/Language_-_Java-EA792B)   ![API](https://img.shields.io/badge/API_-_Paper-68CA20)    ![API](https://img.shields.io/badge/Status_-_In_Development-B2E58D)     ![API](https://img.shields.io/badge/Build_System-Gradle-DC8DE5)     ![API](https://img.shields.io/badge/Current_version-1.0-DB9797)       ![API](https://img.shields.io/badge/Plugin_is-paperweight-97DBC9)      [![API](https://img.shields.io/badge/Link_to-SpigotMC-EBB240)](https://img.shields.io/website?url=http%3A//www.website.com/path/to/page.html)    
+![API](https://img.shields.io/badge/Language_-_Java-EA792B)   ![API](https://img.shields.io/badge/API_-_Paper-68CA20)    ![API](https://img.shields.io/badge/Status_-_Beta-B2E58D)     ![API](https://img.shields.io/badge/Build_System-Gradle-DC8DE5)     ![API](https://img.shields.io/badge/Current_version-1.0-DB9797)       ![API](https://img.shields.io/badge/Plugin_is-paperweight-97DBC9)      [![API](https://img.shields.io/badge/Link_to-SpigotMC-EBB240)]([https://img.shields.io/website?url=http%3A//www.website.com/path/to/page.html](https://www.spigotmc.org/resources/souls-magic.116147/))    
 
 Souls Magic is Paper plugin that adds modlike magic to the game like Staffs, Spells & a new Sword.
 
