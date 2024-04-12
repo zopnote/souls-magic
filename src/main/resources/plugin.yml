@@ -1,0 +1,13 @@
+name: souls-magic
+version: 1.0
+main: com.github.zopnote.soulsmagic.SoulsMagic
+description: Souls Magic is Paper plugin that adds modlike magic to the game like Staffs, Spells & a new Sword.
+load: STARTUP
+softdepend: [WorldGuard, WorldEdit]
+authors:
+  - Zopnote (https://github.com/Zopnote/)
+api-version: 1.13
+commands:
+  souls:
+    description: Command to manage plugin and its features.
+    usage: /souls <arg>
